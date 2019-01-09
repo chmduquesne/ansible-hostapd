@@ -1,0 +1,11 @@
+---
+- name: get latest hostapd
+  package: name=hostapd state=latest
+
+- name: configure /etc/hostapd/hostapd.conf
+  template:
+    src: templates/etc/hostapd/hostapd.conf.j2
+    dest: /etc/hostapd/hostapd.conf
+    owner: root
+    group: root
+    mode: 0644
