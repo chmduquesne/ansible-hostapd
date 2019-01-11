@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/chmduquesne/ansible-hostapd.svg?branch=master)](https://travis-ci.org/chmduquesne/ansible-hostapd)
+[![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-chmduquesne.hostapd-blue.svg)](https://galaxy.ansible.com/chmduquesne/hostapd)
+
 hostapd
 =======
 
