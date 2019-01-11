@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: hostapd
   author: Christophe-Marie Duquesne
   description: Set-up hostapd
   license: MIT
